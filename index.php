@@ -28,8 +28,8 @@ background-size: 100% 100%">
 <?php
 $firstname=$_POST['firstname'];
 $email=$_POST['email'];
-$servername = "intelli.coghw13fheqo.us-east-2.rds.amazonaws.com";
-$username = "intel";
+$servername = "myproject-dtabase.chiecqyxq0xn.us-east-1.rds.amazonaws.com";
+$username = "admin";
 $password = "intel123";
 $db = "intel";
 // Create connection
